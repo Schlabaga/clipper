@@ -1,0 +1,6 @@
+venv
+.idea
+clips
+clipstemp
+*.pyc
+__pycache__
