@@ -1,4 +1,11 @@
 import pathlib
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+CLIENT_ID = os.getenv("CLIENT_ID")
+OAUTH_TOKEN = os.getenv("OAUTH_TOKEN")
 
 # Note:
 # Changing FRAMES and or RESOLUTION will heavily impact load on CPU.
@@ -26,6 +33,7 @@ BLACKLIST = [
 ]  # channels/games you dont want to be included in the video
 
 # twitch
+
 
 PERIOD = 168  # how many hours since the clip's creation should've passed e.g. 24, 48 etc 0 for all time
 LANGUAGE = "fr"  # en, es, th etc.

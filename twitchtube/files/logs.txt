@@ -1,0 +1,136 @@
+
+Mar-09-2024 @ 18:27:58 - info: You're running the latest version of twitchtube at 1.6.6
+Mar-09-2024 @ 18:27:58 - info: You're running the latest version of opplast at 1.0.14
+Mar-09-2024 @ 18:27:58 - info: Going to make video featuring 26 streamers/games, that will end up being ~6.9 seconds long
+Mar-09-2024 @ 18:28:57 - info: You're running the latest version of twitchtube at 1.6.6
+Mar-09-2024 @ 18:28:57 - info: You're running the latest version of opplast at 1.0.14
+Mar-09-2024 @ 18:28:57 - info: Going to make video featuring 26 streamers/games, that will end up being ~6.9 seconds long
+Mar-09-2024 @ 18:28:57 - info: Getting clips for channel AdzTV
+Mar-09-2024 @ 18:28:58 - info: Getting clips for channel VALORANT_fr
+Mar-09-2024 @ 18:28:59 - info: Getting clips for channel Flamby
+Mar-09-2024 @ 18:29:00 - info: Getting clips for channel jbzzed
+Mar-09-2024 @ 18:29:01 - warn: Did not find "data" in response {'data': [], 'pagination': {}} for channel jbzzed, period: 168 language: fr
+Mar-09-2024 @ 18:29:01 - info: Getting clips for channel Gotaga
+Mar-09-2024 @ 18:29:02 - info: Getting clips for channel Sniper_Biscuit
+Mar-09-2024 @ 18:29:03 - info: Getting clips for channel fugu_fps
+Mar-09-2024 @ 18:29:04 - info: Getting clips for channel samueletienne
+Mar-09-2024 @ 18:29:05 - info: Getting clips for channel nataNk1wnl
+Mar-09-2024 @ 18:29:06 - info: Getting clips for channel Aneyaris_
+Mar-09-2024 @ 18:29:07 - info: Getting clips for channel WiPR
+Mar-09-2024 @ 18:29:08 - info: Getting clips for channel Fatiiiih
+Mar-09-2024 @ 18:29:09 - info: Getting clips for channel Chipsette_FR
+Mar-09-2024 @ 18:29:10 - info: Getting clips for channel jmkut
+Mar-09-2024 @ 18:29:11 - info: Getting clips for channel Kamet0
+Mar-09-2024 @ 18:29:12 - info: Getting clips for channel helydia
+Mar-09-2024 @ 18:29:13 - info: Getting clips for channel COSTACHEU
+Mar-09-2024 @ 18:29:14 - info: Getting clips for channel ragevl_
+Mar-09-2024 @ 18:29:14 - info: Getting clips for channel Mickalow
+Mar-09-2024 @ 18:29:15 - info: Getting clips for channel brokybrawkstv
+Mar-09-2024 @ 18:29:16 - info: Getting clips for channel Pauleta_Twitch
+Mar-09-2024 @ 18:29:17 - warn: Did not find "data" in response {'data': [], 'pagination': {}} for channel Pauleta_Twitch, period: 168 language: fr
+Mar-09-2024 @ 18:29:17 - info: Getting clips for channel YassEncore
+Mar-09-2024 @ 18:29:18 - info: Getting clips for channel KaffWorld
+Mar-09-2024 @ 18:29:19 - info: Getting clips for channel Loupiote3
+Mar-09-2024 @ 18:29:20 - info: Getting clips for game VALORANT
+Mar-09-2024 @ 18:29:21 - clip: Downloading clip with slug: SpoopyFreezingShallotDxAbomb-CWFbK8pZbHXTBImE.
+Mar-09-2024 @ 18:29:21 - clip: Saving 'SpoopyFreezingShallotDxAbomb-CWFbK8pZbHXTBImE' as 'SpoopyFreezingShallotDxAbombCWFbK8pZbHXTBImE.mp4'.
+Mar-09-2024 @ 18:30:30 - clip: SpoopyFreezingShallotDxAbomb-CWFbK8pZbHXTBImE has been downloaded.
+
+Mar-09-2024 @ 18:30:30 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:30:30 - clip: Downloading clip with slug: TawdryDrabSparrowTwitchRaid-P2HcNFfZDKtXjWZN.
+Mar-09-2024 @ 18:30:30 - clip: Saving 'TawdryDrabSparrowTwitchRaid-P2HcNFfZDKtXjWZN' as 'TawdryDrabSparrowTwitchRaidP2HcNFfZDKtXjWZN.mp4'.
+Mar-09-2024 @ 18:31:44 - clip: TawdryDrabSparrowTwitchRaid-P2HcNFfZDKtXjWZN has been downloaded.
+
+Mar-09-2024 @ 18:31:44 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:31:44 - clip: Downloading clip with slug: PatientDifficultDiamondPRChase-jBGfo2nopKjIqS2T.
+Mar-09-2024 @ 18:31:44 - clip: Saving 'PatientDifficultDiamondPRChase-jBGfo2nopKjIqS2T' as 'PatientDifficultDiamondPRChasejBGfo2nopKjIqS2T.mp4'.
+Mar-09-2024 @ 18:32:26 - clip: PatientDifficultDiamondPRChase-jBGfo2nopKjIqS2T has been downloaded.
+
+Mar-09-2024 @ 18:32:26 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:32:26 - clip: Downloading clip with slug: SourKitschyWaffleRalpherZ-RZGiN_Hqtd9v6uKg.
+Mar-09-2024 @ 18:32:26 - clip: Saving 'SourKitschyWaffleRalpherZ-RZGiN_Hqtd9v6uKg' as 'SourKitschyWaffleRalpherZRZGiN_Hqtd9v6uKg.mp4'.
+Mar-09-2024 @ 18:33:09 - clip: SourKitschyWaffleRalpherZ-RZGiN_Hqtd9v6uKg has been downloaded.
+
+Mar-09-2024 @ 18:33:09 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:33:10 - clip: Downloading clip with slug: HomelyTriumphantHareFutureMan-q_gGMQlTlX4Bf_62.
+Mar-09-2024 @ 18:33:10 - clip: Saving 'HomelyTriumphantHareFutureMan-q_gGMQlTlX4Bf_62' as 'HomelyTriumphantHareFutureManq_gGMQlTlX4Bf_62.mp4'.
+Mar-09-2024 @ 18:33:43 - clip: HomelyTriumphantHareFutureMan-q_gGMQlTlX4Bf_62 has been downloaded.
+
+Mar-09-2024 @ 18:33:43 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:33:43 - clip: Downloading clip with slug: CleverTalentedSandstormItsBoshyTime-2JRsQyAu5Vkw_OEz.
+Mar-09-2024 @ 18:33:43 - clip: Saving 'CleverTalentedSandstormItsBoshyTime-2JRsQyAu5Vkw_OEz' as 'CleverTalentedSandstormItsBoshyTime2JRsQyAu5Vkw_OEz.mp4'.
+Mar-09-2024 @ 18:34:14 - clip: CleverTalentedSandstormItsBoshyTime-2JRsQyAu5Vkw_OEz has been downloaded.
+
+Mar-09-2024 @ 18:34:14 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:34:14 - clip: Downloading clip with slug: FantasticTenderSwallowRiPepperonis-MDnO_WYARBh_5TOR.
+Mar-09-2024 @ 18:34:14 - clip: Saving 'FantasticTenderSwallowRiPepperonis-MDnO_WYARBh_5TOR' as 'FantasticTenderSwallowRiPepperonisMDnO_WYARBh_5TOR.mp4'.
+Mar-09-2024 @ 18:34:49 - clip: FantasticTenderSwallowRiPepperonis-MDnO_WYARBh_5TOR has been downloaded.
+
+Mar-09-2024 @ 18:34:49 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:34:49 - clip: Downloading clip with slug: RespectfulLivelyStarlingMikeHogu-jrexMNpXsHqTpuQl.
+Mar-09-2024 @ 18:34:49 - clip: Saving 'RespectfulLivelyStarlingMikeHogu-jrexMNpXsHqTpuQl' as 'RespectfulLivelyStarlingMikeHogujrexMNpXsHqTpuQl.mp4'.
+Mar-09-2024 @ 18:35:49 - clip: RespectfulLivelyStarlingMikeHogu-jrexMNpXsHqTpuQl has been downloaded.
+
+Mar-09-2024 @ 18:35:49 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:35:49 - clip: Downloading clip with slug: GloriousOriginalBadgerTheTarFu-s6O8tCgXFS5y3a4j.
+Mar-09-2024 @ 18:35:49 - clip: Saving 'GloriousOriginalBadgerTheTarFu-s6O8tCgXFS5y3a4j' as 'GloriousOriginalBadgerTheTarFus6O8tCgXFS5y3a4j.mp4'.
+Mar-09-2024 @ 18:36:26 - clip: GloriousOriginalBadgerTheTarFu-s6O8tCgXFS5y3a4j has been downloaded.
+
+Mar-09-2024 @ 18:36:26 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:36:26 - clip: Downloading clip with slug: NiceKitschyOstrichCoolStoryBob-gASHBB7AkoV77gj5.
+Mar-09-2024 @ 18:36:26 - clip: Saving 'NiceKitschyOstrichCoolStoryBob-gASHBB7AkoV77gj5' as 'NiceKitschyOstrichCoolStoryBobgASHBB7AkoV77gj5.mp4'.
+Mar-09-2024 @ 18:37:02 - clip: NiceKitschyOstrichCoolStoryBob-gASHBB7AkoV77gj5 has been downloaded.
+
+Mar-09-2024 @ 18:37:02 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:37:02 - clip: Downloading clip with slug: BloodyRoundAubergineThunBeast-PrurAE6IjnPnKqXo.
+Mar-09-2024 @ 18:37:02 - clip: Saving 'BloodyRoundAubergineThunBeast-PrurAE6IjnPnKqXo' as 'BloodyRoundAubergineThunBeastPrurAE6IjnPnKqXo.mp4'.
+Mar-09-2024 @ 18:37:41 - clip: BloodyRoundAubergineThunBeast-PrurAE6IjnPnKqXo has been downloaded.
+
+Mar-09-2024 @ 18:37:41 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:37:41 - clip: Downloading clip with slug: FantasticDrabSeahorseKappaPride-2x6fDcTUgyrP21O6.
+Mar-09-2024 @ 18:37:41 - clip: Saving 'FantasticDrabSeahorseKappaPride-2x6fDcTUgyrP21O6' as 'FantasticDrabSeahorseKappaPride2x6fDcTUgyrP21O6.mp4'.
+Mar-09-2024 @ 18:37:49 - clip: FantasticDrabSeahorseKappaPride-2x6fDcTUgyrP21O6 has been downloaded.
+
+Mar-09-2024 @ 18:37:49 - clip: Downloading clip with slug: PlayfulSparklyChinchillaPupper-umZevqxYqljsjASz.
+Mar-09-2024 @ 18:37:49 - clip: Saving 'PlayfulSparklyChinchillaPupper-umZevqxYqljsjASz' as 'PlayfulSparklyChinchillaPupperumZevqxYqljsjASz.mp4'.
+Mar-09-2024 @ 18:38:34 - clip: PlayfulSparklyChinchillaPupper-umZevqxYqljsjASz has been downloaded.
+
+Mar-09-2024 @ 18:38:34 - info: Downloaded 2 clips from this batch
+
+Mar-09-2024 @ 18:38:34 - clip: Downloading clip with slug: MuddyHorribleLobsterDxAbomb-DFm7sSk9-LxmVuOj.
+Mar-09-2024 @ 18:38:34 - clip: Saving 'MuddyHorribleLobsterDxAbomb-DFm7sSk9-LxmVuOj' as 'MuddyHorribleLobsterDxAbombDFm7sSk9LxmVuOj.mp4'.
+Mar-09-2024 @ 18:39:22 - clip: MuddyHorribleLobsterDxAbomb-DFm7sSk9-LxmVuOj has been downloaded.
+
+Mar-09-2024 @ 18:39:22 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:39:22 - clip: Downloading clip with slug: SpineyVivaciousApeTheRinger-AcA-EgkbpJEA76gN.
+Mar-09-2024 @ 18:39:22 - clip: Saving 'SpineyVivaciousApeTheRinger-AcA-EgkbpJEA76gN' as 'SpineyVivaciousApeTheRingerAcAEgkbpJEA76gN.mp4'.
+Mar-09-2024 @ 18:39:59 - clip: SpineyVivaciousApeTheRinger-AcA-EgkbpJEA76gN has been downloaded.
+
+Mar-09-2024 @ 18:39:59 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:39:59 - clip: Downloading clip with slug: SweetTastyShingleCeilingCat-tdoFQf9U82CPAjRs.
+Mar-09-2024 @ 18:39:59 - clip: Saving 'SweetTastyShingleCeilingCat-tdoFQf9U82CPAjRs' as 'SweetTastyShingleCeilingCattdoFQf9U82CPAjRs.mp4'.
+Mar-09-2024 @ 18:40:20 - clip: SweetTastyShingleCeilingCat-tdoFQf9U82CPAjRs has been downloaded.
+
+Mar-09-2024 @ 18:40:20 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:40:20 - clip: Downloading clip with slug: SteamyResolutePanTBTacoLeft-6Ef7H958chDavP7j.
+Mar-09-2024 @ 18:40:20 - clip: Saving 'SteamyResolutePanTBTacoLeft-6Ef7H958chDavP7j' as 'SteamyResolutePanTBTacoLeft6Ef7H958chDavP7j.mp4'.
+Mar-09-2024 @ 18:40:50 - clip: SteamyResolutePanTBTacoLeft-6Ef7H958chDavP7j has been downloaded.
+
+Mar-09-2024 @ 18:40:50 - info: Downloaded 1 clips from this batch
+
+Mar-09-2024 @ 18:40:50 - info: Downloaded a total of 17 clips
+Mar-09-2024 @ 18:40:50 - info: Done!

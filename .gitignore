@@ -4,3 +4,4 @@ clips
 clipstemp
 *.pyc
 __pycache__
+.env
